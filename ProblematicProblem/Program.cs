@@ -1,10 +1,10 @@
-System;
-using System.Collections.Generic
+using System;
+using System.Collections.Generic;
 using System.Threading;
 
-ProblematicProblem
+namespace ProblematicProblem
 {
-    Program class
+    class Program
     {
         Random rng;
 static bool cont = true;
